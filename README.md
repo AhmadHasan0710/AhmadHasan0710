@@ -14,10 +14,9 @@ $${\color{red}Network \space Infrastructure \space Homelab}$$
 •Implemented inter-VLAN routing for segmented network communication<br>
 •Designed and secured multiple network segments for traffic isolation and access control<br>
 •Utilized pfSense to manage routing, firewall policies, and network stability<br>
+<br>
 
-<a href="https://github.com/AhmadHasan0710/Network-Infrastrucutre-Homelab">
-  Network Infrastructure Homelab
-</a><br>
+[![Network Infrastructure Homelab](https://img.shields.io/badge/Network%20Infrastructure%20Homelab-red)](https://github.com/AhmadHasan0710/Network-Infrastrucutre-Homelab)
 
 <h3>
 $${\color{red}Simulated \space Phishing \space Attack \space Lab}$$
