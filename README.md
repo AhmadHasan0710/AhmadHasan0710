@@ -58,7 +58,7 @@ $${\color{red}Associates \space Cybersecurity \space Degree}$$
 $${\color{red}Current \space Certifications}$$
 </h3>
 
-•Cisco Certified Network Associate (CCNA) - Completed Augest 2026 <br>
+•Cisco Certified Network Associate (CCNA) - Completed August 2026 <br>
 • Strong foundation in routing, switching, subnetting, VLANs, network security, & more.  <br>
 
 <h3>
