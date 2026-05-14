@@ -26,7 +26,8 @@ $${\color{red}Simulated \space Credential \space Harvesting \space Lab}$$
 • Phishing payload behavior analysis<br>
 • Network traffic inspection and documentation (packet-level analysis)<br>
 <br>
-**Link to Repository**<br>
+
+[![Credential Harvesting Lab](https://img.shields.io/badge/Credential%20Harvesting%20Lab-red)](https://github.com/AhmadHasan0710/Simulated-Credential-Harvesting)
 
 <h3>
 $${\color{red}All \space Other \space Projects}$$
