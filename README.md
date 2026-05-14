@@ -19,7 +19,7 @@ $${\color{red}Network \space Infrastructure \space Homelab}$$
 [![Network Infrastructure Homelab](https://img.shields.io/badge/Network%20Infrastructure%20Homelab-red)](https://github.com/AhmadHasan0710/Network-Infrastrucutre-Homelab)
 
 <h3>
-$${\color{red}Simulated \space Phishing \space Attack \space Lab}$$
+$${\color{red}Simulated \space Credential \space Harvesting \space Lab}$$
 </h3>
 
 • Social engineering attack simulation (SET framework)<br> 
