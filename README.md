@@ -32,7 +32,7 @@ $${\color{red}Credential \space Harvesting \space Lab}$$
 <h3>
 $${\color{red}All \space Other \space Projects}$$
 </h3>
-[![AWS](https://img.shields.io/badge/AWS-VPC%20Architecture-red)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
+[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-Architecture-red)]([https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture))<br>
 &nbsp;&nbsp;&nbsp;- Built isolated cloud subnets with controlled secure traffic flow<br>
 
 [![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust%20Network-red)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
@@ -40,7 +40,6 @@ $${\color{red}All \space Other \space Projects}$$
 
 [![SOC Lab](https://img.shields.io/badge/SOC-Network%20Threat%20Detection-red)](https://github.com/AhmadHasan0710/Soc-Siem-Integration)<br>
 &nbsp;&nbsp;&nbsp;- Monitored network activity and detected simulated security threats<br>
-<br>
 
 <h2>
   📖 Network Education & Certification(s):
