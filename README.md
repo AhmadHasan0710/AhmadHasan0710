@@ -33,7 +33,7 @@ $${\color{red}Credential \space Harvesting \space Lab}$$
 $${\color{red}All \space Other \space Projects}$$
 </h3>
 
-[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-Architecture-red)]([https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture))<br>
+[![AWS VPC](https://img.shields.io/badge/AWS%20TVPC%20Architecture-red)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
 &nbsp;&nbsp;&nbsp;- Built isolated cloud subnets with controlled secure traffic flow<br>
 
 [![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust%20Network-red)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
