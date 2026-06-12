@@ -32,11 +32,10 @@ $${\color{red}Credential \space Harvesting \space Lab}$$
 <h3>
 $${\color{red}All \space Other \space Projects}$$
 </h3>
-
-[![AWS](https://img.shields.io/badge/AWS-VPC%20Architecture-232F3E?logo=amazonaws&logoColor=red)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
+[![AWS](https://img.shields.io/badge/AWS-VPC%20Architecture-red)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
 &nbsp;&nbsp;&nbsp;- Built isolated cloud subnets with controlled secure traffic flow<br>
 
-[![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust%20Network-critical)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
+[![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust%20Network-red)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
 &nbsp;&nbsp;&nbsp;- Enforced strict access controls across segmented VLAN networks<br>
 
 [![SOC Lab](https://img.shields.io/badge/SOC-Network%20Threat%20Detection-red)](https://github.com/AhmadHasan0710/Soc-Siem-Integration)<br>
