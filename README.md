@@ -33,13 +33,14 @@ $${\color{red}Credential \space Harvesting \space Lab}$$
 $${\color{red}All \space Other \space Projects}$$
 </h3>
 
-[![Secure AWS VPC Network Architecture](https://img.shields.io/badge/AWS%20VPC%20Network)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
+[![AWS](https://img.shields.io/badge/AWS-VPC%20Architecture-232F3E?logo=amazonaws&logoColor=white)](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture)<br>
 &nbsp;&nbsp;&nbsp;- Built isolated cloud subnets with controlled secure traffic flow<br>
 
-[![Zero Trust Enterprise Network](https://img.shields.io/badge/Zero%20Trust%20Network%20Architecture)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
+[![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust%20Network-critical)](https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network)<br>
 &nbsp;&nbsp;&nbsp;- Enforced strict access controls across segmented VLAN networks<br>
-•**Example**<br>
- ‎ ‎ -**Description**<br>
+
+[![SOC Lab](https://img.shields.io/badge/SOC-Network%20Threat%20Detection-blueviolet)](https://github.com/AhmadHasan0710/Soc-Siem-Integration)<br>
+&nbsp;&nbsp;&nbsp;- Monitored network activity and detected simulated security threats<br>
 <br>
 
 <h2>
