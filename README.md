@@ -33,14 +33,10 @@ $${\color{red}Credential \space Harvesting \space Lab}$$
 $${\color{red}All \space Other \space Projects}$$
 </h3>
 
-•**Example**<br>
-‎ ‎ ‎ -**Description**<br>
-•**Example**<br>
- ‎ ‎ -**Description**<br>
-•**Example**<br>
- ‎ ‎ -**Description**<br>
-•**Example**<br>
- ‎ ‎ -**Description**<br>
+[![Secure AWS VPC Network Architecture](https://img.shields.io/badge/AWS%20VPC%20Network)]([https://github.com/AhmadHasan0710/Simulated-Credential-Harvesting](https://github.com/AhmadHasan0710/Secure-AWS-VPC-Network-Architecture))<br>
+‎ ‎ ‎ -Built isolated cloud subnets with controlled secure traffic flow<br>
+[![Zero Trust Enterprise Network](https://img.shields.io/badge/Zero Trust%20Network%20Architecture)]([https://github.com/AhmadHasan0710/Zero-Trust-Enterprise-Network))<br><br>
+ ‎ ‎ -Enforced strict access controls across segmented VLAN networks<br>
 •**Example**<br>
  ‎ ‎ -**Description**<br>
 <br>
